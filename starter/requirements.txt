@@ -18,7 +18,7 @@ pydantic==2.7.1
 python-dotenv==1.0.1
 
 # MLflow
-mlflow==2.16.2
+mlflow==3.11.0rc1
 boto3==1.34.101
 
 # DVC
