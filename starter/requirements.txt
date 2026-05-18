@@ -11,7 +11,7 @@ scikit-learn>=1.3.0,<1.4.0
 setuptools>=69.0,<71.0
 
 # API
-requests==2.32.3
+requests==2.33.0
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
 pydantic==2.7.1
